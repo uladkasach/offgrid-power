@@ -1,0 +1,3 @@
+- `knee`:
+  - > [3] The upper and lower knees are where the cell hits full/empty and the voltage trend changes sharply upwards, in hockey stick fashion, or sinks like a rock
+  - a knee is when the voltage moves off the plateau

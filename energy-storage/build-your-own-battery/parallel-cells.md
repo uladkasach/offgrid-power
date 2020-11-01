@@ -1,0 +1,2 @@
+- [6]
+  - > Lithium-ion batteries can be connected in parallel. If higher currents may be needed in a circuit and bigger cells aren’t available or incompatible with the design, then one of more lithium-ion cells can be connected in parallel. Most battery chemistries, including lithium-ion cells, allow parallel configurations that come with a few side effects. However, the capacity in parallel cells, as well as the runtime, tends to increase while, on the other hand, the voltage stays constant.
