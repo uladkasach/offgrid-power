@@ -1,0 +1,15 @@
+we need:
+- quality stripper of wires - which will not hurt the cables
+  - 4/0 size -> use a cable cutter
+  - smaller size -> use your diagonal cutters
+- crimper of connectors
+  - large gauge => good cold weld
+    - TEMCo TH0020 Lug Crimper Tool for 10 AWG - 400 MCM wire lugs
+      - (https://www.amazon.com/gp/product/B00HJYY5GA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+    - indent crimper
+  - small gauge => good cold weld
+- wire cutter
+  - 4/0 size ->
+    - 12 inch cable cutter
+      - https://www.amazon.com/Leverage-Communications-Klein-Tools-63050/dp/B0000302X1/ref=sr_1_19?dchild=1&keywords=16+inch+cable+cutters&qid=1604431882&sr=8-19
+  - smaller sizes: typical household diagonal cutters
